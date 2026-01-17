@@ -63,7 +63,7 @@ Para rodar este projeto localmente, é necessário ter o Node.js instalado no se
    
    ```git clone https://github.com/daniellinslopes/desafio-logica-inicial.git```
    
-3. Entre na pasta do projecto:
+3. Entre na pasta do projeto:
    
    ```cd desafio-logica-inicial```
 
