@@ -1,6 +1,6 @@
 # 🛡️ Classificador de Nível de Herói
 
-Este projeto foi desenvolvido como parte de um desafio de lógica de programação. O objectivo é criar um sistema que receba o nome e a experiência (XP) de um herói e determine o seu nível (ranking) com base numa escala pré-definida.
+Este projeto foi desenvolvido como parte de um desafio de lógica de programação. O objetivo é criar um sistema que receba o nome e a experiência (XP) de um herói e determine o seu nível (ranking) com base numa escala pré-definida.
 
 # 📝 Descrição
 
