@@ -57,7 +57,7 @@ Maior ou igual a 10.001
 
 # 💻 Como Executar
 
-Para rodar este projecto localmente, é necessário ter o Node.js instalado no seu computador.
+Para rodar este projeto localmente, é necessário ter o Node.js instalado no seu computador.
 
 1. Clone o repositório:
    
