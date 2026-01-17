@@ -52,7 +52,7 @@ Maior ou igual a 10.001
 
 # 🛠️ Tecnologias
 
-• JavaScript (ES6+)
+• JavaScript
 
 • Node.js
 
