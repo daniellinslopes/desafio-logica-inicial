@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte de um desafio de lógica de programaç�
 
 # 📝 Descrição
 
-O programa utiliza estruturas fundamentais de programação para automatizar a classificação de personagens. Em vez de utilizar uma sequência exaustiva de if/else, o código foi optimizado para percorrer uma lista de níveis, tornando-o mais fácil de manter e expandir.
+O programa utiliza estruturas fundamentais de programação para automatizar a classificação de personagens. Ao invés de utilizar uma sequência exaustiva de if/else, o código foi otimizado para percorrer uma lista de níveis, tornando-o mais fácil de manter e expandir.
 
 # 🚀 Funcionalidades
 
@@ -14,7 +14,7 @@ O programa utiliza estruturas fundamentais de programação para automatizar a c
 
 • Escalabilidade: Fácil adição de novos níveis apenas alterando a estrutura de dados.
 
-• Ciclo de Repetição: Permite classificar vários heróis sem precisar de reiniciar o programa.
+• Ciclo de Repetição: Permite classificar vários heróis sem precisar reiniciar o programa.
 
 # 📊 Tabela de Classificação (XP/Nível)
 
@@ -63,7 +63,7 @@ Para rodar este projeto localmente, é necessário ter o Node.js instalado no se
    
    ```git clone https://github.com/daniellinslopes/desafio-logica-inicial.git```
    
-3. Entre na diretório do projecto:
+3. Entre na pasta do projecto:
    
    ```cd desafio-logica-inicial```
 
