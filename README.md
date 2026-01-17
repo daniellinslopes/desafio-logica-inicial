@@ -60,10 +60,10 @@ Maior ou igual a 10.001
 Para rodar este projecto localmente, é necessário ter o Node.js instalado no seu computador.
 
 1. Clone o repositório:
-   git clone [https://github.com/daniellinslopes/desafio-logica-inicial.git](https://github.com/daniellinslopes/desafio-logica-inicial.git)
+   ```git clone [https://github.com/daniellinslopes/desafio-logica-inicial.git](https://github.com/daniellinslopes/desafio-logica-inicial.git)```
    
 2. Entre na diretório do projecto:
-   cd desafio-logica-inicial
+   ```cd desafio-logica-inicial```
 
 3. Execute o script:
-   node classificadorDeHeroi.js
+   ```node classificadorDeHeroi.js```
