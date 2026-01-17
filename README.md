@@ -61,7 +61,7 @@ Para rodar este projecto localmente, é necessário ter o Node.js instalado no s
 
 1. Clone o repositório:
    
-   ```git clone [https://github.com/daniellinslopes/desafio-logica-inicial.git](https://github.com/daniellinslopes/desafio-logica-inicial.git)```
+   ```git clone https://github.com/daniellinslopes/desafio-logica-inicial.git```
    
 3. Entre na diretório do projecto:
    
